@@ -349,7 +349,7 @@ void startShow(int i) {
 
     case 8: rainbowCycle(25);
             break;
-    case 9: colorWipe(strip.Color(255, 171, 0), SPEED);  // Yellow
+    case 9: colorWipe(strip.Color(220, 111, 18), SPEED);  // Yellow
             break;
   }
 }
